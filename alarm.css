@@ -168,7 +168,7 @@ span[id^="time"]{
 #time_minutes{
     position: relative;
     top: 5px;
-    left: 10px;
+    left: 20px;
 }
 #time_colon{
 }
