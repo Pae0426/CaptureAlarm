@@ -23,5 +23,5 @@ CaptureAlarm
 # URL
 https://hackson-yakiniku-flask.herokuapp.com/alarm
 
-※リアカメラを使用するので、スマホでご利用ください。
+※リアカメラを使用するので、スマホでご利用ください。<br>
 ※ページが表示されるまで少し時間がかかる場合があります。
